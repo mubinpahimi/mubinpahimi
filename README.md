@@ -1,7 +1,7 @@
 <h3>About Me</h3>
 
 - 👋 Hi, I’m @mubinpahimi! I'm a final year computer science student at UiTM, Malaysia. 
-- 👀 I’m interested in ...
+- 👀 I’m interested in machine learning, big data, crypto
 <h3>🌱 Currently learning</h3>
 
 - Object Oriented Programming
